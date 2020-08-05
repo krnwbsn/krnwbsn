@@ -5,8 +5,8 @@ give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel fre
 
 <p>
 <a href="https://www.linkedin.com/in/krina-wibisana-292277a8/"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/krinawibisana/"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:krinawibisana@gmail.com"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/mail.png?raw=true"></a>
+<a href="https://www.instagram.com/krinawibisana/"><img height="50" src="https://github.com/krnwbsn/krnwbsn/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:krinawibisana@gmail.com"><img height="50" src="https://github.com/krnwbsn/krnwbsn/blob/master/mail.png?raw=true"></a>
 </p>
 
 ![krnwbsn's github stats](https://github-readme-stats.vercel.app/api?username=krnwbsn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
