@@ -1,6 +1,6 @@
 ### Hello world
 
-I am front-end developer. I have a passion for learning and sharing my knowledge with others.
+I am front-end developer who have a passion for learning and sharing my knowledge with others.
 give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel free to reach me whenever you want.
 
 <p>
