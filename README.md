@@ -4,6 +4,8 @@ I am front-end developer who have a passion for learning and sharing my knowledg
 give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel free to reach me whenever you want.
 
 <p>
+<h3>The first Next.js global user conference</h3>
+<img src="https://github.com/krnwbsn/krnwbsn/blob/master/nextjs-conf-ticket.png"><br />
 <a href="https://www.linkedin.com/in/krina-wibisana-292277a8/"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/krinawibisana/"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:krinawibisana@gmail.com"><img height="25" src="https://github.com/krnwbsn/krnwbsn/blob/master/mail.png?raw=true"></a>
