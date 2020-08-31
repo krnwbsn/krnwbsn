@@ -11,4 +11,4 @@ give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel fre
 <a href="mailto:krinawibisana@gmail.com"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/mail.png?raw=true"></a>
 </p>
 
-![krnwbsn's github stats](https://github-readme-stats.vercel.app/api?username=krnwbsn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+<!-- ![krnwbsn's github stats](https://github-readme-stats.vercel.app/api?username=krnwbsn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000) -->
