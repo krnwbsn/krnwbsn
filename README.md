@@ -8,4 +8,7 @@ give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel fre
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnwbsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[LinkedIn]: https://www.linkedin.com/in/krina-wibisana-292277a8/
+[Instagram]: https://www.instagram.com/krnwbsn/
+
 <!-- ![krnwbsn's github stats](https://github-readme-stats.vercel.app/api?username=krnwbsn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000) -->
