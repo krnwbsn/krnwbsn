@@ -1,14 +1,11 @@
-### Hello world
+### Hello world 👋
 
-I am front-end developer who have a passion for learning and sharing my knowledge with others.
+You can call me, Krina.
 give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel free to reach me whenever you want.
 
-<p>
-<h3>The first Next.js global user conference</h3>
-<img src="https://github.com/krnwbsn/krnwbsn/blob/master/nextjs-conf-ticket.png"><br />
-<a href="https://www.linkedin.com/in/krina-wibisana-292277a8/"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/krinawibisana/"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:krinawibisana@gmail.com"><img height="30" src="https://github.com/krnwbsn/krnwbsn/blob/master/mail.png?raw=true"></a>
-</p>
+[<img align="left" alt="Krina Wibisana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Krina Wibisana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnwbsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![krnwbsn's github stats](https://github-readme-stats.vercel.app/api?username=krnwbsn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000) -->
