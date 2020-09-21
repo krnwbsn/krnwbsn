@@ -1,11 +1,12 @@
 ### Hello world 👋
 
-You can call me, Krina.
-give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel free to reach me whenever you want.
+You can call me, Krina.<br />
+Give some ♥ at [@krinawibisana](https://instagram.com/krinawibisana/) feel free to reach me whenever you want.
 
 [<img align="left" alt="Krina Wibisana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Krina Wibisana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnwbsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [LinkedIn]: https://www.linkedin.com/in/krina-wibisana-292277a8/
